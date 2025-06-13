@@ -18,6 +18,7 @@ members = [
   "nih_plug_iced",
   "nih_plug_vizia",
   "nih_plug_xtask",
+  "nih_plug_bevy",
 
   "cargo_nih_plug",
   "xtask",

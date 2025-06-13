@@ -1,0 +1,10 @@
+[package]
+name = "nih_plug_bevy"
+version = "0.0.0"
+edition = "2021"
+authors = ["Sylvia Soup <sylvia@agala.dev>"]
+license = "ISC"
+
+description = "An adapter to use Bevy GUIs with NIH-plug"
+
+[dependencies]
